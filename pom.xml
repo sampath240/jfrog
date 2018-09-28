@@ -58,13 +58,13 @@
           </snapshots>
           <id>central</id>
           <name>libs-release</name>
-          <url>http://104.196.125.251:8081/artifactory/libs-release</url>
+          <url>http://104.196.125.251:8081/artifactory/libs-release-local</url>
         </pluginRepository>
         <pluginRepository>
           <snapshots />
           <id>snapshots</id>
           <name>libs-snapshot</name>
-          <url>http://104.196.125.251:8081/artifactory/libs-snapshot</url>
+          <url>http://104.196.125.251:8081/artifactory/libs-snapshot-local</url>
         </pluginRepository>
 	</pluginRepositories>
 
